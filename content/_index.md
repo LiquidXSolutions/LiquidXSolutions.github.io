@@ -40,11 +40,11 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "10+"
+        - statistic: "1M+"
           description: |
             Satisfied Client  
             with LiquidX
-        - statistic: "✅"
+        - statistic: "10+"
           description: |
             Best Undetected  
             Services Since 20/8/2025
@@ -88,7 +88,7 @@ sections:
       text: Hugo Blox Docs Theme brings all your technical knowledge together in a single, centralized knowledge base. Easily search and edit it with the tools you use every day!
       button:
         text: Get Started
-        url: https://LiquidX.store
+        url: https://hugoblox.com/templates/details/docs/
     design:
       card:
         # Card background color (CSS class)
