@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: Buy our Products
+      text: The easy, no technical documentation, easy to use for your game 🎉
       primary_action:
         text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        url: https://LiquidX.store
         icon: rocket-launch
       secondary_action:
         text: Read the docs
         url: /docs/
       announcement:
-        text: "Announcing the release of version 2."
+        text: "Announcing the release of version 1."
         link:
           text: "Read more"
           url: "/blog/"
@@ -42,13 +42,13 @@ sections:
       items:
         - statistic: "1M+"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Satisfied Client  
+            with LiquidX
+        - statistic: "10+"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Best Undetected  
+            Services Since 20/8/2025
+        - statistic: "20+"
           description: |
             Discord community  
             for support
@@ -62,9 +62,9 @@ sections:
     id: features
     content:
       title: Features
-      text: Collaborate, publish, and maintain technical knowledge with an all-in-one documentation site. Used by 100,000+ startups, enterprises, and researchers.
+      text: Undetected Services for your In-Game Experience, Best Quality for Gamers.
       items:
-        - name: Optimized SEO
+        - name: Optimized Cheat
           icon: magnifying-glass
           description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
         - name: Fast
