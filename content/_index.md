@@ -40,11 +40,11 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "10+"
           description: |
             Satisfied Client  
             with LiquidX
-        - statistic: "10+"
+        - statistic: "✅"
           description: |
             Best Undetected  
             Services Since 20/8/2025
