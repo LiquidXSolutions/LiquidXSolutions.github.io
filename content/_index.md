@@ -88,7 +88,7 @@ sections:
       text: Hugo Blox Docs Theme brings all your technical knowledge together in a single, centralized knowledge base. Easily search and edit it with the tools you use every day!
       button:
         text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        url: https://LiquidX.store
     design:
       card:
         # Card background color (CSS class)
